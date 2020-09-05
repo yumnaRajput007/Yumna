@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-
+hi
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - YUMNA -OFFICAL------•◈•
+|__\~~) •||•BILI - RAJPUT---------------•◈•
+|__(-----\  •◈•------MANO-HACKER--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMANO HACKER
+\033[1;96mInstagram \033[1;93m: \033[1;BILLII
+\033[1;96mFacebook  \033[1;93m: \033[1; YumaZeeshan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheYumna/hacker
 \033[1;91m======================================="""
 
 def tik():
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Mano"
+CorrectPassword = "Bili"
 
 loop = 'true'
 while (loop == 'true'):
